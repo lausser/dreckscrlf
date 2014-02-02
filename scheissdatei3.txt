@@ -1,0 +1,7 @@
+mit 
+windows
+notepad
+erzeugt
+und
+cygwin
+ergaenzt

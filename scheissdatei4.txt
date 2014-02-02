@@ -1,0 +1,9 @@
+mit 
+windows
+notepad
+erzeugt
+jetzt
+mit
+cygwin
+ergaenzt
+und dann mit dos2unix
